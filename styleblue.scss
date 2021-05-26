@@ -1,0 +1,38 @@
+@import "style";
+
+body{
+
+background-color:darkslategray;
+
+article,
+section,
+#selling-points,
+pre,
+.before,
+.after{
+    color:cyan;
+}
+
+pre{
+    background-color: darkslategray;
+}
+
+
+h1,
+h2,
+h6{
+    color:cyan;
+}
+}
+
+.message,
+.success,
+.error,
+.warning{
+      color: cyan;
+  }
+
+.red,
+.blue{
+    color: cyan;
+}

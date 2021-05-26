@@ -1,0 +1,40 @@
+@import "style";
+
+body{
+
+    background-color: gainsboro;
+
+article,
+section,
+#selling-points,
+pre,
+.before,
+.after{
+    color:red;
+}
+
+pre{
+    background-color: gainsboro;
+}
+
+h1,
+h2,
+h6{
+    color:red;
+}
+}
+
+.message,
+.success,
+.error,
+.warning{
+      color: red;
+  }
+  .error {
+    background-color: blue;
+  }
+
+.red,
+.blue{
+    color: red;
+}
